@@ -1,4 +1,4 @@
-Favorite Songs:
+- Favorite Songs:
 	+ Twilight of the Gods
 	+ Feather - Nujabes
 	+ Haru - Yorushika
