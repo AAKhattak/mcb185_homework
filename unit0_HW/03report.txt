@@ -1,0 +1,124 @@
+Tue Jan 14 15:40:33 PST 2025
+CYGWIN_NT-10.0-26100 Asher 3.5.5-1.x86_64 2024-12-20 16:19 UTC x86_64 Cygwin
+ProgramFiles(x86)=C:\Program Files (x86)
+!::=::\
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+SHELL=/bin/bash
+NUMBER_OF_PROCESSORS=16
+PROCESSOR_LEVEL=25
+TERM_PROGRAM_VERSION=3.7.7
+USERDOMAIN_ROAMINGPROFILE=ASHER
+HOSTNAME=Asher
+PROGRAMFILES=C:\Program Files
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+OS=Windows_NT
+HOMEDRIVE=C:
+USERDOMAIN=ASHER
+PWD=/home/B0BTH/Code/mcb185_homework
+USERPROFILE=C:\Users\B0BTH
+PRINTER=Canon MF240 Series
+TZ=America/Los_Angeles
+ALLUSERSPROFILE=C:\ProgramData
+ORIGINAL_PATH=/cygdrive/c/Windows/system32:/cygdrive/c/Windows:/cygdrive/c/Windows/System32/Wbem:/cygdrive/c/Windows/System32/WindowsPowerShell/v1.0:/cygdrive/c/Windows/System32/OpenSSH:/cygdrive/c/Users/B0BTH/AppData/Local/Programs/Python/Python313/Scripts:/cygdrive/c/Users/B0BTH/AppData/Local/Programs/Python/Python313:/cygdrive/c/Users/B0BTH/AppData/Local/Programs/Python/Launcher:/cygdrive/c/Users/B0BTH/AppData/Local/Microsoft/WindowsApps:/cygdrive/c/Users/B0BTH/AppData/Local/Programs/Microsoft VS Code/bin
+CommonProgramW6432=C:\Program Files\Common Files
+HOME=/home/B0BTH
+USERNAME=B0BTH
+EFC_14100=1
+OneDrive=C:\Users\B0BTH\OneDrive
+COMSPEC=C:\Windows\system32\cmd.exe
+APPDATA=C:\Users\B0BTH\AppData\Roaming
+SYSTEMROOT=C:\Windows
+LOCALAPPDATA=C:\Users\B0BTH\AppData\Local
+COMPUTERNAME=ASHER
+INFOPATH=/usr/local/info:/usr/share/info:/usr/info
+TERM=xterm
+LOGONSERVER=\\ASHER
+USER=B0BTH
+PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+TEMP=/tmp
+SHLVL=2
+PROCESSOR_REVISION=7401
+DriverData=C:\Windows\System32\Drivers\DriverData
+COMMONPROGRAMFILES=C:\Program Files\Common Files
+LC_CTYPE=en_US.UTF-8
+PROCESSOR_IDENTIFIER=AMD64 Family 25 Model 116 Stepping 1, AuthenticAMD
+SESSIONNAME=Console
+HOMEPATH=\Users\B0BTH
+TMP=/tmp
+PATH=/usr/local/bin:/usr/bin:/cygdrive/c/Windows/system32:/cygdrive/c/Windows:/cygdrive/c/Windows/System32/Wbem:/cygdrive/c/Windows/System32/WindowsPowerShell/v1.0:/cygdrive/c/Windows/System32/OpenSSH:/cygdrive/c/Users/B0BTH/AppData/Local/Programs/Python/Python313/Scripts:/cygdrive/c/Users/B0BTH/AppData/Local/Programs/Python/Python313:/cygdrive/c/Users/B0BTH/AppData/Local/Programs/Python/Launcher:/cygdrive/c/Users/B0BTH/AppData/Local/Microsoft/WindowsApps:/cygdrive/c/Users/B0BTH/AppData/Local/Programs/Microsoft VS Code/bin
+ProgramW6432=C:\Program Files
+PROFILEREAD=true
+MINTTY_SHORTCUT=/cygdrive/c/Users/Public/Desktop/Cygwin64 Terminal.lnk
+WINDIR=C:\Windows
+PROCESSOR_ARCHITECTURE=AMD64
+PUBLIC=C:\Users\Public
+SYSTEMDRIVE=C:
+EXECIGNORE=*.dll
+OLDPWD=/home/B0BTH
+TERM_PROGRAM=mintty
+ProgramData=C:\ProgramData
+_=/usr/bin/printenv
+Python 3.9.16
+/home/B0BTH/Code:
+MCB185
+mcb185_homework
+
+/home/B0BTH/Code/MCB185:
+LICENSE
+README.md
+course
+data
+ref
+src
+
+/home/B0BTH/Code/MCB185/course:
+participation.md
+unit0-unix.md
+unit1-calculations.md
+unit2-iteration.md
+unit3-containers.md
+unit4-sequences.md
+unit5-words.md
+unit6-data.md
+unit7-executables.md
+
+/home/B0BTH/Code/MCB185/data:
+A.thaliana.fa.gz
+A.thaliana.gff.gz
+C.elegans.fa.gz
+C.elegans.gff.gz
+C.elegans.vcf.gz
+C.elegans_transcripts.fa.gz
+D.melanogaster.fa.gz
+D.melanogaster.gff.gz
+GCF_000005845.2_ASM584v2_genomic.fna.gz
+GCF_000005845.2_ASM584v2_genomic.gbff.gz
+GCF_000005845.2_ASM584v2_genomic.gff.gz
+GCF_000005845.2_ASM584v2_protein.faa.gz
+README.md
+colors_basic.tsv
+colors_extended.tsv
+dictionary.gz
+jaspar2024_core.transfac.gz
+primers.csv
+
+/home/B0BTH/Code/MCB185/ref:
+LINUX_REFERENCE.md
+PYTHON_COOKBOOK.md
+PYTHON_REFERENCE.md
+
+/home/B0BTH/Code/MCB185/src:
+mcb185.py
+
+/home/B0BTH/Code/mcb185_homework:
+00hello.sh
+01hello.py
+02status.sh
+03report.txt
+LICENSE
+README.md
+ecoli.gff.gz
+math_practice.py
+participation.md
+participation.txt
+poetry.txt
