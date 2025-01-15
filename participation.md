@@ -28,14 +28,18 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ Didn't come to class Thursday to save you from getting sick
 	+ Total 4 points
 - Week 1
-	+Tuesday: 
-		+came to class
-		+demoed how to manipulate a txt file
-		+introduced myself to zoe
-		+asked several questions
+	+ Tuesday: 
+		+ came to class
+		+ demoed how to manipulate a txt file
+		+ introduced myself to zoe
+		+ asked several questions
 
-	+Thursday: came to class
+	+ Thursday: came to class
 - Week 2
+	+ Tuesday: 
+	  + Came to class
+	  + demoed to show cygwin case insensitivity
+	  + introduced myself to Cordealia
 - Week 3
 - Week 4
 - Week 5
