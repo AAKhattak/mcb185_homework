@@ -35,11 +35,16 @@ more than one point per category. There is a maximum of 5 points each week.
 		+ asked several questions
 
 	+ Thursday: came to class
+Total Points: 5
 - Week 2
 	+ Tuesday: 
 	  + Came to class
 	  + demoed to show cygwin case insensitivity
 	  + introduced myself to Cordealia
+	+ Thursday: 
+	  + Attended class
+	  + Introduced myself to Catrinel B. 
+Total Points: 5
 - Week 3
 - Week 4
 - Week 5
