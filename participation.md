@@ -34,8 +34,9 @@ more than one point per category. There is a maximum of 5 points each week.
 		+ introduced myself to zoe
 		+ asked several questions
 
-	+ Thursday: came to class
-Total Points: 5
+	+ Thursday: 
+		+ came to class
+	+ Total Points: 5
 - Week 2
 	+ Tuesday: 
 	  + Came to class
@@ -44,8 +45,12 @@ Total Points: 5
 	+ Thursday: 
 	  + Attended class
 	  + Introduced myself to Catrinel B. 
-Total Points: 5
+	+ Total Points: 5
 - Week 3
+	+ Tuesday: 
+	  + Came to classs
+	  + Did an in person Unit 0 assessment, realized I mistyped a "+" 
+	    where a "-" should have been :(
 - Week 4
 - Week 5
 - Week 6
