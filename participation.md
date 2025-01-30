@@ -51,7 +51,14 @@ more than one point per category. There is a maximum of 5 points each week.
 	  + Came to classs
 	  + Did an in person Unit 0 assessment, realized I mistyped a "+" 
 	    where a "-" should have been :(
+	+ Thursday: Did not attend class
 - Week 4
+	+ Tuesday:
+	  + Came to class
+	  + Asked questions in class
+	  + Did unit 1 in class assessment
+	+ Thursday:
+	  + Came to class
 - Week 5
 - Week 6
 - Week 7
