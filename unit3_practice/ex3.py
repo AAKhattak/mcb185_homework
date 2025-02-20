@@ -26,6 +26,6 @@ def stats(vals):
     print('std =', math.sqrt(var / len(vals)))
     for i in vals:
         zscore = 0
-        zscore = abs((i-mean) / math.sqrt(var / len(vals)))
+        zscore = ((i-mean) / math.sqrt(var / len(vals)))
         print('zscore =', zscore)
 stats(vals)
